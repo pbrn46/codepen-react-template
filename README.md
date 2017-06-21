@@ -1,9 +1,9 @@
-# FreeCodeCamp CodePen Camper Recipe Box Challenge
-By Boris Wong, 2017-06-20
+# FreeCodeCamp CodePen Template
+By Boris Wong, YYYY-MM-DD
 
 This project was written to complete a FreeCodeCamp.com challenge.
 
-You can view the pen at https://codepen.io/PBrn46/full/yXbvMP/
+You can view the pen at https://codepen.io/PBrn46/full/XXXXXX/
 
 ## License
 
