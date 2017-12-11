@@ -5,7 +5,7 @@ This project was written to complete a FreeCodeCamp.com challenge.
 
 You can view the pen at https://codepen.io/PBrn46/full/XXXXXX/
 
-## License
+## License - MIT
 
 Copyright (c) 2017 Boris Wong
 
