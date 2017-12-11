@@ -7,6 +7,9 @@ import './App.css';
 var $ = require('jquery');
 window.$ = window.jQuery = $;
 
+var Popper = require('popper.js');
+window.Popper = Popper;
+
 var Tether = require('tether');
 window.Tether = Tether;
 
